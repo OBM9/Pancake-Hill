@@ -6,5 +6,6 @@ console.log('hello');
 
 //Variables
 var b = 'smoothie';
+console.log(b);
 
 
