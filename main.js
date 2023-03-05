@@ -3,6 +3,8 @@
 "John"
 typeof "John";
 typeof 42
+typeof true
+
 
 
 
