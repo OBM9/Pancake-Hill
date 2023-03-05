@@ -2,5 +2,7 @@
 //data types//
 "John"
 typeof "John";
+typeof 42
+
 
 
