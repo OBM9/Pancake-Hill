@@ -5,6 +5,6 @@ console.log('hello');
 //How to write comment inline
 
 //Variables
-var b
+var b = 'smoothie';
 
 
