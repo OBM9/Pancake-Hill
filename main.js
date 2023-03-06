@@ -11,5 +11,5 @@ console.log(b);
 var someNumber = 23;
 console.log(someNumber);
 
-document.getElementById(someText).innerHTML ='Hey There';
+document.getElementById('someText').innerHTML ='Hey There';
 
