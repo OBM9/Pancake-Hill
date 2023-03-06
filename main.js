@@ -13,3 +13,5 @@ console.log(someNumber);
 
 document.getElementById('someText').innerHTML ='Hey There!';
 
+prompt('What is your age?');
+
