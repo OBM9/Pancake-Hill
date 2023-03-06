@@ -11,3 +11,5 @@ console.log(b);
 var someNumber = 23;
 console.log(someNumber);
 
+document.getElementById
+
