@@ -1,4 +1,6 @@
 console.log('hello');
-alert('hello this is john');
+//alert('hello this is john');
+
+
 
 
