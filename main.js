@@ -9,7 +9,7 @@ var b = 'smoothie';
 console.log(b);
 
 var someNumber = 23;
-console.log(someNumber);
+//console.log(someNumber);
 
 //var age = prompt('What is your age?');
 //document.getElementById('someText').innerHTML = age;
