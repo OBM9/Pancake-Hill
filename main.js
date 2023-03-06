@@ -8,4 +8,6 @@ console.log('hello');
 var b = 'smoothie';
 console.log(b);
 
+var someNumber = 45;
+
 
