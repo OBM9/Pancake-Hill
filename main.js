@@ -14,6 +14,7 @@ console.log('hello');
     var result = num1 + num2;
     console.log(num1 + num2);
   }
+  someNumbers(20, 32)
 
 
 
