@@ -10,6 +10,8 @@ function greeting() {
   console.log(result);
 } 
   greeting();
+  function someNumbers(num1, num2);
+  
 
 
 
