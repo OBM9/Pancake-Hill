@@ -19,6 +19,7 @@ var someNumber = 23;
 function fun() {
   alert('This is a function');
 }
+fun();
 
 
 
