@@ -12,7 +12,7 @@ console.log('hello');
   greeting();
   function someNumbers(num1, num2) {
     var result = num1 + num2;
-    console.log(result);
+    console.log(num1 + num2);
   }
 
 
