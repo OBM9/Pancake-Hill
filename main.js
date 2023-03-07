@@ -4,7 +4,9 @@ console.log('hello');
 //how to write a comment inline
 
 //variables
-function fun() 
+function greeting() {
+  
+} 
  
 
 
