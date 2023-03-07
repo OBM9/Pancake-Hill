@@ -4,9 +4,9 @@ console.log('hello');
 //how to write a comment inline
 
 //variables
-//function greeting() {
- // var name =prompt('What is your name?');
- // var result = 'Hello' + name;
+function greeting() {
+  var name =prompt('What is your name?');
+  var result = 'Hello' + name;
   console.log(result);
 } 
   greeting();
