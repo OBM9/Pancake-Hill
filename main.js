@@ -9,7 +9,7 @@ function greeting() {
   var result = 'Hello!' + name;
   console.log(result);
 } 
- 
+  greeting();
 
 
 
