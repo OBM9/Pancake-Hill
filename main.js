@@ -7,6 +7,7 @@ console.log('hello');
 function greeting() {
   var name =prompt('What is your name?');
   var result = 'Hello!' + name;
+  console.log(result);
 } 
  
 
