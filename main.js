@@ -16,6 +16,9 @@ var someNumber = 23;
 
 //Numbers in javascript
 //Functions
+function fun() {
+  alert('This is a function');
+}
 
 
 
