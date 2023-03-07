@@ -15,6 +15,7 @@ var someNumber = 23;
 //document.getElementById('someText').innerHTML = age;
 
 //Numbers in javascript
+//Functions
 
 
 
