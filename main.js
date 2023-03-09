@@ -10,7 +10,7 @@ function greeting(yourName) {
   var result = 'Hello' + ' ' + yourName;
   console.log(result);
 } 
-  greeting();
+  greeting(name);
   function someNumbers(num1, num2) {
     var result = num1 + num2;
     console.log(num1 + num2);
