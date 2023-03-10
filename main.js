@@ -3,9 +3,7 @@ function sumNumbers(num1, num2) {
   console.log(result);
 }
 
-sumNumbers10, 10);
-
-
+sumNumbers(10, 10);
 
 //While loops
 var num = 0;
