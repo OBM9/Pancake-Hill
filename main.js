@@ -1,7 +1,9 @@
 //While loops
 var num = 0;
 
-while (num
+while (num <100) {
+  num += 1;
+}
 
 
 
